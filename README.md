@@ -1,5 +1,7 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b93f0569-d1c9-490e-acd0-091b5b1ce3e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<div>
+    <a href="https://www.credly.com/badges/b93f0569-d1c9-490e-acd0-091b5b1ce3e3/public_url">
+        <img src="img/aws-certified-solutions-architect-associate.png">
+    </a>
 <div>
   <img src="https://img.shields.io/badge/hello-hello-red">
 </div>
