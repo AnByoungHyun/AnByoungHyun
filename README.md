@@ -5,6 +5,7 @@
 <a href="https://www.credly.com/badges/b93f0569-d1c9-490e-acd0-091b5b1ce3e3/public_url">
     <img src="img/aws-certified-solutions-architect-associate.png">
 </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f6fbe39-8044-4dd0-b0c1-3edcd8558c94" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Github Statistics
 <div>
