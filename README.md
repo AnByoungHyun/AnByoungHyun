@@ -6,7 +6,7 @@
     <img src="img/aws-certified-solutions-architect-associate.png">
 </a>
 <a href="https://www.credly.com/badges/1f6fbe39-8044-4dd0-b0c1-3edcd8558c94/public_url">
-    <img src="img/aws-certified-sysops-administrator-associate.png">
+    <img src="img/aws-certified-sysops-administrator-associate.png" width="60">
 </a>
 
 # Github Statistics
